@@ -1,0 +1,7 @@
+yelp
+
+clientId: 2kbzIzPjUlmWz3SKgB6Jkg
+SecretKey: NPErSFWKEr5rhEl0ocW2NAIvFnFbpkbjJVTeYkNrC0BqTJ6SYd9YFxTa9vBYb2GnpPOASmBOzNWlt2abwYrE-aix4gcey-a4ejhJ19-idfFm6yvp3oZzqOvkUsfqXXYx
+
+Requests:
+https://api.yelp.com/v3/businesses/search
